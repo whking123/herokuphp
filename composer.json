@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Wei Hong",
+        "email": "20023766@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
